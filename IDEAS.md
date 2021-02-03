@@ -34,3 +34,12 @@
 > social meetup app based on events
  * find existing events, advertise them to users based on their preferences
  * try to match people based on the events they want to go to and organize a date for them to go to
+
+# quadratic voting tester [Social][Political][Blockchain]
+> quadratic voting is a group decision making method that uses points that increase in cost exponentially
+ * in theory this method is good because it gives weight to voters who care more about certain issues
+ * need method that calculates the cost in points for users depending on their voting history
+ * database that tracks and allocates points
+ * view that shows things that are voted on and the results, like a message board
+ * eventually could expand to a social network, political activism, etc.
+ * potential synergy as well with blockchain and election systems
