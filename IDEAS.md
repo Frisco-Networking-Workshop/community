@@ -43,3 +43,14 @@
  * view that shows things that are voted on and the results, like a message board
  * eventually could expand to a social network, political activism, etc.
  * potential synergy as well with blockchain and election systems
+
+ # erodecoin [Cryptocurrency][Blockchain][Economics]
+ > with bitcoin as the model, crypto has evolved to emphasize storage of value. *erodecoin* would instead emphasize exchange and community
+ * __burns a hole__: hardwired to depreciate (negative interest) to encourage spending, not hoarding
+ * __self-reliance__: market exchange rate is irrelevant
+ * __automated supply__: algorithms crunch or expand all account values as necessary for continuous flow
+ * __organic demand__: with little frame of reference, prices are determined between individuals in case-by-case basis
+ * __money for all__ who want it: number of minted "coins" is unlimited
+ * __no mine, yes craft__: coins can only be earned, either from paid services/goods sold or recruitment of new users
+ * __trustful__: transaction fees determined by users based on amount of trust in counterparty (decreases computational verification load)
+ * [Proof of Importance](https://www.mycryptopedia.com/proof-of-importance/) as possible integrity protocol
